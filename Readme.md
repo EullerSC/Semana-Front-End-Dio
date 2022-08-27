@@ -5,9 +5,10 @@
 
 
 
-Este projeto tem como objetivo construção de um site com um tema da série da Netflix Stranger Things, ministrado por Michele Queiroz Ambrosio,Diogo Medeiros Mainardes,Renan Johannsen de Paula.
+Este projeto tem como objetivo construção de um site com um tema da série da Netflix Stranger Things, ministrado por Michele Queiroz Ambrosio,Diogo Medeiros Mainardes,Renan Johannsen de Paula, apresentando por Renan Oliveira em parceria com a Digital Innovation One Inc.
 
-Usando as principais tecnologias envolvendo o desenvolvimento front end web como HTML, CSS, JAVASCRIPT e com um adicional o FIREBASE para guarda no banco de dados não relacional.
+
+Usando as principais tecnologias envolvendo o desenvolvimento front end web como HTML, CSS, JAVASCRIPT e com um adicional, o FIREBASE para guardar no banco de dados não relacional.
 
 
 
