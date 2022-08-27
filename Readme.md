@@ -1,6 +1,5 @@
 
 
-![image-20220826203534941](C:\Users\Euller\AppData\Roaming\Typora\typora-user-images\image-20220826203534941.png)	![image-20220826203634843](C:\Users\Euller\AppData\Roaming\Typora\typora-user-images\image-20220826203634843.png)
 
 ----
 
